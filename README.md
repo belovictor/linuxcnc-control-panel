@@ -2,7 +2,7 @@
 
 This is a hardware project to build a LinuxCNC control panel with a touchscreen based on Raspberry Pi 5
 
-![alt text](control-panel-assembly.png)
+![alt text](control-panel-assembly.jpg)
 
 The project contains STEP file with full assembly of all the parts.
 
