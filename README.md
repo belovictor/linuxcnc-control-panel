@@ -15,3 +15,5 @@ Power supply used in this panel is a dual channel MeanWell RD-50A with 5V and 12
 Display with touchscreen is 15.6 inch 1920x1080 DWIN HDW156-001L.
 
 Cable extensions for ethernet and USB as well as the power socket with switch can be easily found on AliExpress.
+
+[A detailed assembly video on YouTube](https://youtu.be/6MMDeRKqlNU)
